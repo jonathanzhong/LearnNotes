@@ -18,9 +18,12 @@ live in **head** or **body** (for performance reason).
 `<p>always has a blank line before the tag.</p>`
 
 ### Body Section:
-- Display Content: <body> tag
+- Display Content: `<body>` tag
+```
 <h1> ... <h6>
 <sup></sup>, <sub></sub>, <strong></strong>, <em></em>.
+```
+
 For **hightlight*
 
 - Hyperlinks: <a> tag
