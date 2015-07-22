@@ -29,29 +29,29 @@ Link to an e-mail address:
 `<a href="mailto:example@example.com?subject=Bug+Report"></a>`
 
 
-- Image: <img> tag
+- Image: `<img>` tag
 When we want to resize the image, we can just specify only `height` or `wideth`;
 Or we can just define them in percentage %(abolute measure for the image).
 
-- Horizontal Line: <hr> tag 
+- Horizontal Line: `<hr>` tag 
 
-- Order Lists: <ol> tag
+- Order Lists: `<ol>` tag
 Attribute: type A, a, I, or i;
 Display as number, english character or roman character;
 
-- Unorder Lists: <ul> tag
-Attribute: type disc, circle or ..
+- Unorder Lists: `<ul>` tag
+Attribute: type disc, circle.
 
-- Definition lists: <dl> tag
-  <dl> -> <dt>(term) -> <dd>(definition)
+- Definition lists: `<dl>` tag
+  `<dl>` -> `<dt>`(term) -> `<dd>`(definition)
 
 - Special Characters:
 [Click Here for more!](https://www.utexas.edu/learn/html/spchar.html)
 
 - Block and inline Element
-Block element: <div>, <table>, <hr>, <p>;
+Block element: `<div>, <table>, <hr>, <p>`;
 
-Inline element: <span>(userful for modify specific portion of text), <a>;
+Inline element: `<span>`(userful for modify specific portion of text), `<a>`;
 
-- Table: <table> tag
- -> <tr>: table row - <td>: table data
+- Table: `<table>` tag
+ -> `<tr>`: table row - `<td>`: table data
