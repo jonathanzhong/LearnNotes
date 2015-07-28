@@ -179,3 +179,27 @@ external CSS (class =" c1, c2"):supposed `c1` and `c2` comes from 2 different fi
 Backgrounds:
 `background-repeat` repeat the smaller images.
 
+
+
+## Bootstrap
+
+
+
+Responsive Design:
+is an approach to web page creation that make use of flexible layouts, flexible layout, flexible images and cascading style sheet media queries. The goal of responsive design is to build web pages that detect the visitor's screen size and orientation and change the layout accordingly.
+
+**Mobile First**
+
+**grid system**:
+includes a responve, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases.
+**12 cols**   
+- Rows must be placed within a `.container(fixed-width)` or `.container-fluid(full-width)` for proper alignment and padding.
+
+xs: phones
+sm: tablets
+md: desktops
+lg: larger desktops
+
+[viewport tag!](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+
+**CDN**: content delivey network.
