@@ -174,6 +174,19 @@ The third fact is that they can update the values of outer variables.
     * Closures can outlive the function that creats them.
     * Closures internally store references to their outer variables, and can both read and update their stored variables.
 
-### Understand Variable Hoisting
+### Understand Variable Hoisting(提前)
+
+JavaScript supports *lexical scoping* but not *block scoping*
+
+the variable declaration will be hoisted to the beginning of lexical scope.
+
+- Things to Remember:
+  *  Variable declarations within a block are implicitly hoisted to the top of their enclosing function.
+  *  Redeclarations of a variable are treated as a signle variable.
+  *  Consider manually hoisting local variable declarations to avoid confusion.(place all var declarations at the top of their functions.)
+
+
+### Use Immediately Invoked Function Expressions to Create Local Scopes
+
 
 
