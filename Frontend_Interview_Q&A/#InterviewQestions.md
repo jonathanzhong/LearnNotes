@@ -72,3 +72,27 @@ what kinds of `server` and `database`
 Hint: what happens between the process of  `url` and `fetch the page`
 
 17. Board game design.
+
+
+-----------------------------
+
+
+- Draw A Circle on the page and decide wheather the mouse is inside the circle.
+
+- "===" and "=="
+
+- What source you will use to track the latest technology? Explain about it.
+
+- How many primitives in JavaScript?
+
+- Explain closure.
+
+- Explain Scoping.
+
+- What is the bad part of JavaScript?
+
+- How would check your JavaScript Test?
+
+- JavaScript are blocking or non-blocking?
+JavaScript are single thread by nature.
+
