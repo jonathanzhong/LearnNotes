@@ -203,3 +203,47 @@ lg: larger desktops
 [viewport tag!](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
 **CDN**: content delivey network.
+
+
+
+## JavaScript
+
+Arrays - Associative arrays(hash table)
+
+JavaScript data types: numbers(integer, floating-point), boolean(true/false).
+
+The latest ECMAScript 6 defines seven data type:
+ - six data types that are primitives:
+      * boolean
+      * null
+      * undefined
+      * number
+      * string
+      * symbol
+ - and object
+
+what is the differnce between double quote `"` and single quote `'`?
+
+mostly there are the same, there is different when we use `" and '` at the same string.
+
+every variable can be considered as object.
+
+standard popup boxes:
+
+alert box; confirmation box; prompt box.
+
+**DOM** (document object model)
+
+**function declareation**
+
+```
+function name(param1, param2, or call back) {
+
+}
+```
+
+Built in browser objects:
+window; document; screen; browser.
+
+Math Object:
+Math.floor() function returns the largest integer less than or equal to a given number.
